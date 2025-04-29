@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seori</h1>
+<h1 align="center">Hi 👋, I'm Daru</h1>
 <h3 align="center">A highschool student from South Korea who wants to become an AI engineer </h3>
 
 
